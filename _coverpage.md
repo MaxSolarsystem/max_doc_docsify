@@ -10,5 +10,5 @@
 ![](https://img.shields.io/badge/Java-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 
 [GitHub](https://github.com/MaxSolarsystem/max_doc_docsify)
-[开始阅读](?id=中文文档)
+[开始阅读](?id=我的故事)
 
