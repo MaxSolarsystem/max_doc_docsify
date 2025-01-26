@@ -1,45 +1,17 @@
-## 中文文档
+> [!NOTE|label:座右铭]
+> 世界上的一切都不完美，缺憾是上天赋予我们的特质。既然如此，何必再等待完美？接受不完美，勇敢迈出第一步，开始新的旅程。
 
-在线阅读
----
+## 我的故事
 
--  **[国内优先 Gitee 在线阅读](https://mochazi.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/mochazi/docsify-demo)
--  **[国外优先 GitHub 在线阅读](https://mochazi.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/mochazi/docsify-demo)
+关于我。
 
-## 编写警告
-> [!WARNING]
-> 在`[]`里面写入`!WARNING`即可
->
-> 这是一个使用了Markdown引用样式美化插件的警告
+## 项目蓝图
 
-## 编写危险
-> [!Danger]
-> 在`[]`里面写入`!Danger`即可
->
-> 这是一个使用了Markdown引用样式美化插件的危险
+关于项目
 
-## 编写提示
-> [!TIP]
-> 在`[]`里面写入`!TIP`即可
->
-> 这是一个使用了Markdown引用样式美化插件的提示
+## 总结与前瞻
+ 
+关于总结和未来
 
-## 编写注释
-> [!NOTE]
-> 在`[]`里面写入`!NOTE`即可
->
-> 这是一个使用了Markdown引用样式美化插件的注释
-
-## 编写自定义警告
-> [!WARNING|label:Important]
-> 在`[]`里面写入`!WARNING|label:Important`即可
->
-> 同理`Danger`，`TIP`，`NOTE`添加`label:xxx`实现自定义
-
-## 图片缩放
-![](style/head_portrait.jpg)
-
-## 访问量统计
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 
